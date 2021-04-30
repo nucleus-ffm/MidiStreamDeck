@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.invisiblewrench.fluttermidicommand" >
+4
+5    <uses-sdk android:minSdkVersion="25" />
+5-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+6
+7    <uses-feature
+7-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:5-81
+8        android:name="android.software.midi"
+8-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:19-55
+9        android:required="true" />
+9-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:56-79
+10    <uses-feature
+10-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:5-89
+11        android:name="android.hardware.bluetooth_le"
+11-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:19-63
+12        android:required="true" />
+12-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:64-87
+13
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:7:5-67
+14-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:7:22-65
+15    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+15-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:8:5-73
+15-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:8:22-71
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:9:5-78
+16-->/home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:9:22-76
+17
+18</manifest>

@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:2:3-51
+		INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+		INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:1:11-69
+uses-feature#android.software.midi
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:5-81
+	android:required
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:56-79
+	android:name
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:4:19-55
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:5-89
+	android:required
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:64-87
+	android:name
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:5:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml:9:22-76
+uses-sdk
+INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+		ADDED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml
+		INJECTED from /home/nico/.pub-cache/hosted/pub.dartlang.org/flutter_midi_command-0.3.7/android/src/main/AndroidManifest.xml

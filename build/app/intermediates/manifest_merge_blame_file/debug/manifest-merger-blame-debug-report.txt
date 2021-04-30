@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.nucleusTech.midi_stream_deck"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/debug/AndroidManifest.xml:6:22-64
+15
+16    <uses-feature
+16-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:35
+17        android:name="android.software.midi"
+17-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-45
+18        android:required="true" />
+18-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-32
+19    <uses-feature
+19-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-12:35
+20        android:name="android.hardware.bluetooth_le"
+20-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-53
+21        android:required="true" />
+21-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-32
+22
+23    <uses-permission android:name="android.permission.BLUETOOTH" />
+23-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-68
+23-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-65
+24    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+24-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-74
+24-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-71
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-79
+25-->[:flutter_midi_command] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/flutter_midi_command/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-76
+26
+27    <application
+27-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:3:4-40:19
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] /home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:5:9-43
+32        android:label="midi_stream_deck" >
+32-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:4:9-41
+33        <activity
+33-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:6:9-34:20
+34            android:name="de.nucleusTech.midi_stream_deck.MainActivity"
+34-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:7:13-41
+35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+35-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:10:13-163
+36            android:hardwareAccelerated="true"
+36-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:11:13-47
+37            android:launchMode="singleTop"
+37-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:8:13-43
+38            android:theme="@style/LaunchTheme"
+38-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:9:13-47
+39            android:windowSoftInputMode="adjustResize" >
+39-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:12:13-55
+40
+41            <!--
+42                 Specifies an Android theme to apply to this Activity as soon as
+43                 the Android process has started. This theme is visible to the user
+44                 while the Flutter UI initializes. After that, this theme continues
+45                 to determine the Window background behind the Flutter UI.
+46            -->
+47            <meta-data
+47-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:17:13-20:17
+48                android:name="io.flutter.embedding.android.NormalTheme"
+48-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:18:15-70
+49                android:resource="@style/NormalTheme" />
+49-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:19:15-52
+50            <!--
+51                 Displays an Android View that continues showing the launch screen
+52                 Drawable until Flutter paints its first frame, then this splash
+53                 screen fades out. A splash screen is useful to avoid any visual
+54                 gap between the end of Android's launch screen and the painting of
+55                 Flutter's first frame.
+56            -->
+57            <meta-data
+57-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:26:13-29:17
+58                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+58-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:27:15-79
+59                android:resource="@drawable/launch_background" />
+59-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:28:15-61
+60
+61            <intent-filter>
+61-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:30:13-33:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:31:17-68
+62-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:31:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:32:17-76
+64-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:32:27-74
+65            </intent-filter>
+66        </activity>
+67        <!--
+68             Don't delete the meta-data below.
+69             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+70        -->
+71        <meta-data
+71-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:37:9-39:33
+72            android:name="flutterEmbedding"
+72-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:38:13-44
+73            android:value="2" />
+73-->/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/android/app/src/main/AndroidManifest.xml:39:13-30
+74
+75        <activity
+75-->[:url_launcher] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+76            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+76-->[:url_launcher] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+77            android:exported="false"
+77-->[:url_launcher] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+78            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+78-->[:url_launcher] /home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+79    </application>
+80
+81</manifest>

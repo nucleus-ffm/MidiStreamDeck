@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/shared_preferences/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/nico/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/custom_dialog.xml"
+    }
+]

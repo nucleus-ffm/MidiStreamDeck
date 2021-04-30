@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+de/nucleusTech/midi_stream_deck/BuildConfig.java
+ de.nucleusTech.midi_stream_deck.BuildConfig

@@ -1,0 +1,4 @@
+#Fri Apr 30 16:20:50 CEST 2021
+base.0=/home/nico/Dokumente/Entwicklung/andrioid-Dev/midi_stream_deck/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

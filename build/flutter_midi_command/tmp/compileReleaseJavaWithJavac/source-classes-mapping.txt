@@ -1,0 +1,2 @@
+com/invisiblewrench/fluttermidicommand/BuildConfig.java
+ com.invisiblewrench.fluttermidicommand.BuildConfig
